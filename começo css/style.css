@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+ *   {
+    font-family: 'Smokum', cursiva;
+    }
+    body {
+        background-image: linear-gradient(to right, black 80%, red) ;
+    }
+    main {
+        background-color: white;
+        border-radius: 10px;
+        width: 600px;
+        padding: 10px;
+        margin: auto;
+    }
+    h1 {
+        color:  #F39209;
+        text-align: center;
+    h2{
+        color: #F2C3A7;
+    }
+    p {
+      text-align: justify;  
+    }
+

@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(foto\ fundo.jpg);
+    background-size: cover;
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family: Comic Sans MS;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 120px;
+}
+p {
+    color: white;
+   text-align: start;
+   font-family: Comic Sans MS;
+   font-weight: bolder;
+   font-size: 20px;
+   width: 60%;
+   padding: 10px 10px 10px 150px;
+}
+
+
